@@ -1,0 +1,71 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/home/knoldus/assignment-scala01-2/src/main/scala/AssignmentOperations.scala, /home/knoldus/assignment-scala01-2/src/main/scala/Menu.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/knoldus/assignment-scala01-2/src/main/scala/com/scalaAssignment/AssignmentOperations.scala, /home/knoldus/assignment-scala01-2/src/main/scala/com/scalaAssignment/Menu.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/knoldus/assignment-scala01-2/target/scala-2.12/classes/AssignmentOperations.class, /home/knoldus/assignment-scala01-2/target/scala-2.12/classes/Menu$.class, /home/knoldus/assignment-scala01-2/target/scala-2.12/classes/Menu.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(AssignmentOperations, Menu)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/knoldus/assignment-scala01-2/src/main/scala/AssignmentOperations.scala, /home/knoldus/assignment-scala01-2/src/main/scala/Menu.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(AssignmentOperations, Menu)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/knoldus/assignment-scala01-2/src/main/scala/com/scalaAssignment/AssignmentOperations.scala, /home/knoldus/assignment-scala01-2/src/main/scala/com/scalaAssignment/Menu.scala, /home/knoldus/assignment-scala01-2/src/main/scala/AssignmentOperations.scala, /home/knoldus/assignment-scala01-2/src/main/scala/Menu.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 2 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to /home/knoldus/assignment-scala01-2/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.0:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.0:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 3b5fcf90 for Scala compiler version 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/knoldus/.sbt/boot/scala-2.12.4/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/knoldus/assignment-scala01-2/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.003005847 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from AssignmentOperations...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(AssignmentOperations)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(AssignmentOperations)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(AssignmentOperations,ModifiedNames(changes = UsedName(getClass,[Default]), UsedName(sumOfProduct,[Default]), UsedName(eq,[Default]), UsedName(finalize,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName($isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName($asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(AssignmentOperations,[Default]), UsedName(!=,[Default]), UsedName(asInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(maximumNumber,[Default]), UsedName(factorial,[Default]), UsedName(synchronized,[Default]), UsedName(ne,[Default]), UsedName(sum,[Default]), UsedName(==,[Default]), UsedName(printList,[Default]), UsedName(notify,[Default]), UsedName(fibonacciNumber,[Default]), UsedName(toString,[Default]), UsedName(clone,[Default]), UsedName(AssignmentOperations;init;,[Default]))) invalidates 1 classes due to The AssignmentOperations has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(sumOfProduct,[Default]), UsedName(eq,[Default]), UsedName(finalize,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName($isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName($asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(AssignmentOperations,[Default]), UsedName(!=,[Default]), UsedName(asInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(maximumNumber,[Default]), UsedName(factorial,[Default]), UsedName(synchronized,[Default]), UsedName(ne,[Default]), UsedName(sum,[Default]), UsedName(==,[Default]), UsedName(printList,[Default]), UsedName(notify,[Default]), UsedName(fibonacciNumber,[Default]), UsedName(toString,[Default]), UsedName(clone,[Default]), UsedName(AssignmentOperations;init;,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(AssignmentOperations)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from Menu...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(Menu)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(Menu)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(Menu,ModifiedNames(changes = UsedName(getClass,[Default]), UsedName(eq,[Default]), UsedName(finalize,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName($isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName($asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(main,[Default]), UsedName(!=,[Default]), UsedName(asInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(synchronized,[Default]), UsedName(ne,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName(toString,[Default]), UsedName(clone,[Default]), UsedName(Menu,[Default]))) invalidates 1 classes due to The Menu has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(eq,[Default]), UsedName(finalize,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName($isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName($asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(main,[Default]), UsedName(!=,[Default]), UsedName(asInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(synchronized,[Default]), UsedName(ne,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName(toString,[Default]), UsedName(clone,[Default]), UsedName(Menu,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(Menu)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.scalaAssignment.AssignmentOperations...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(com.scalaAssignment.AssignmentOperations)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.scalaAssignment.AssignmentOperations)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of com.scalaAssignment.Menu: Set(UsedName(sumOfProduct,[Default]), UsedName(AssignmentOperations,[Default]), UsedName(com;scalaAssignment;AssignmentOperations;init;,[Default]), UsedName(maximumNumber,[Default]), UsedName(printList,[Default]), UsedName(fibonacciNumber,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.scalaAssignment.AssignmentOperations,ModifiedNames(changes = UsedName(getClass,[Default]), UsedName(sumOfProduct,[Default]), UsedName(eq,[Default]), UsedName(finalize,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName($isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName($asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(AssignmentOperations,[Default]), UsedName(!=,[Default]), UsedName(asInstanceOf,[Default]), UsedName(com;scalaAssignment;AssignmentOperations;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(maximumNumber,[Default]), UsedName(factorial,[Default]), UsedName(synchronized,[Default]), UsedName(ne,[Default]), UsedName(sum,[Default]), UsedName(==,[Default]), UsedName(printList,[Default]), UsedName(notify,[Default]), UsedName(fibonacciNumber,[Default]), UsedName(toString,[Default]), UsedName(clone,[Default]))) invalidates 2 classes due to The com.scalaAssignment.AssignmentOperations has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(sumOfProduct,[Default]), UsedName(eq,[Default]), UsedName(finalize,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName($isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName($asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(AssignmentOperations,[Default]), UsedName(!=,[Default]), UsedName(asInstanceOf,[Default]), UsedName(com;scalaAssignment;AssignmentOperations;init;,[Default]), UsedName(isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(maximumNumber,[Default]), UsedName(factorial,[Default]), UsedName(synchronized,[Default]), UsedName(ne,[Default]), UsedName(sum,[Default]), UsedName(==,[Default]), UsedName(printList,[Default]), UsedName(notify,[Default]), UsedName(fibonacciNumber,[Default]), UsedName(toString,[Default]), UsedName(clone,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.scalaAssignment.AssignmentOperations)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(com.scalaAssignment.Menu)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.scalaAssignment.Menu...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(com.scalaAssignment.Menu)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.scalaAssignment.Menu)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.scalaAssignment.Menu,ModifiedNames(changes = UsedName(getClass,[Default]), UsedName(eq,[Default]), UsedName(finalize,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName($isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName($asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(main,[Default]), UsedName(!=,[Default]), UsedName(asInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(synchronized,[Default]), UsedName(ne,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName(toString,[Default]), UsedName(clone,[Default]), UsedName(Menu,[Default]))) invalidates 1 classes due to The com.scalaAssignment.Menu has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getClass,[Default]), UsedName(eq,[Default]), UsedName(finalize,[Default]), UsedName(notifyAll,[Default]), UsedName(hashCode,[Default]), UsedName($isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName($asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(main,[Default]), UsedName(!=,[Default]), UsedName(asInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(wait,[Default]), UsedName(synchronized,[Default]), UsedName(ne,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName(toString,[Default]), UsedName(clone,[Default]), UsedName(Menu,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.scalaAssignment.Menu)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

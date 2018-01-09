@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/assignment-scala01-2/src/main/scala/AssignmentOperations.scala:22:5: a pure expression does nothing in statement position[0m
+[0m[[0m[33mwarn[0m] [0m[0m    max[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
