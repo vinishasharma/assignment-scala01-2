@@ -43,7 +43,7 @@ class AssignmentOperations {
   }
 
   def sum(number: Int): Int = {
-    if (number == 0) 0 else number % 10 + sum(number / 10);
+    if (number == 0) 0 else number % 10 + sum(number / 10)
   }
 
   def sumOfProduct(number: Int): Int = {
