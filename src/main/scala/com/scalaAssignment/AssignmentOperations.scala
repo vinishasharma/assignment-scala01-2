@@ -7,7 +7,7 @@ class AssignmentOperations {
     args.foreach(s => {
       val index = args.indexOf(s)
       val value = args(index)
-      println(s"$index => $value")
+      print(s"$index => $value \n")
     })
   }
 

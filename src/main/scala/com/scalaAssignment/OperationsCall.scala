@@ -10,12 +10,12 @@ object OperationsCall {
     val list1 = List(element1,element2,element3,element4)
     operation.printList(list1)
     val maxNumber = operation.maximumNumber(list1)
-    println(s"Maximum number in list: $maxNumber")
+    print(s"Maximum number in list: $maxNumber\n" )
     val fibonacciNumberParameter = 6
     val fibonacciResult = operation.fibonacciNumber(fibonacciNumberParameter)
-    println(s"fibonacci number: $fibonacciResult")
+    print(s"fibonacci number: $fibonacciResult\n")
     val NumberForSumOfProduct = 5
     val sumOfProduct = operation.sumOfProduct(NumberForSumOfProduct)
-    println(s"sum of product of 5 : $sumOfProduct")
+    print(s"sum of product of 5 : $sumOfProduct\n")
   }
 }

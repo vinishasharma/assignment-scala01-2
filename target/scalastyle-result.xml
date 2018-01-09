@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="5.0">
  <file name="/home/knoldus/assignment-scala01-2/src/main/scala/com/scalaAssignment/AssignmentOperations.scala">
-  <error column="6" line="10" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
   <error source="org.scalastyle.file.NewLineAtEofChecker" severity="warning" message="File must end with newline character"/>
- </file>
- <file name="/home/knoldus/assignment-scala01-2/src/main/scala/com/scalaAssignment/OperationsCall.scala">
-  <error column="4" line="13" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
-  <error column="4" line="16" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
-  <error column="4" line="19" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
  </file>
 </checkstyle>
